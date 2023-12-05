@@ -98,9 +98,9 @@ winnerSelected.innerHTML = winner;
 }
 
 function changesColorSquare(square1, square2, square3) {
-square1.style.background = '#	0000FF';
-square2.style.background = '#	0000FF';
-square3.style.background = '#	0000FF';
+square1.style.background = '#0000FF';
+square2.style.background = '#0000FF';
+square3.style.background = '#0000FF';
 }
 
 function checkSequence(square1, square2, square3) {
